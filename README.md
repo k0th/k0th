@@ -3,11 +3,16 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **JavaScript, React, Redux, NodeJs, Express**
+- 💬 TStack tecnologico **JavaScript, React, Redux, NodeJs, Express**
 
 - 📫 Contactame **israel.og@outlook.com**
 
-- 📄 Know about my experiences [➡️Soy Full Stack Developer con el lenguaje JavaScript, ReactJS, NodeJS, Redux como mi stack principal. Además soy Licenciado en Desarrollo de Software y Diseñador Gráfico con más de 15 años de experiencia y numerosas empresas asesoradas en el área de imagen. ➡️Esta combinación de habilidades me permite poder realizar proyectos desde la construcción e idealización de la marca hasta la salida profesional del producto digital a desarrollar. Materializo las ideas por medio de la parte gráfica dotando a mis desarrollos con una UX/UI única y auténtica. ➡️Además de ello he dirigido equipos de trabajo enfocados en proyectos de creación de marca y realizado la creación de empresas y negocios desde la idea del cliente. ¡Platíca conmigo, con gusto te puedo ayudar!](➡️Soy Full Stack Developer con el lenguaje JavaScript, ReactJS, NodeJS, Redux como mi stack principal. Además soy Licenciado en Desarrollo de Software y Diseñador Gráfico con más de 15 años de experiencia y numerosas empresas asesoradas en el área de imagen. ➡️Esta combinación de habilidades me permite poder realizar proyectos desde la construcción e idealización de la marca hasta la salida profesional del producto digital a desarrollar. Materializo las ideas por medio de la parte gráfica dotando a mis desarrollos con una UX/UI única y auténtica. ➡️Además de ello he dirigido equipos de trabajo enfocados en proyectos de creación de marca y realizado la creación de empresas y negocios desde la idea del cliente. ¡Platíca conmigo, con gusto te puedo ayudar!)
+- 📄 ¿Quién soy? 
+
+➡️Soy Full Stack Developer con el lenguaje JavaScript, ReactJS, NodeJS, Redux como mi stack principal. Además soy Licenciado en Desarrollo de Software y Diseñador Gráfico con más de 15 años de experiencia y numerosas empresas asesoradas en el área de imagen. 
+➡️Esta combinación de habilidades me permite poder realizar proyectos desde la construcción e idealización de la marca hasta la salida profesional del producto digital a desarrollar. Materializo las ideas por medio de la parte gráfica dotando a mis desarrollos con una UX/UI única y auténtica. 
+
+➡️Además de ello he dirigido equipos de trabajo enfocados en proyectos de creación de marca y realizado la creación de empresas y negocios desde la idea del cliente. ¡Platíca conmigo, con gusto te puedo ayudar!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
