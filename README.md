@@ -5,7 +5,7 @@
 
 - 💬 Stack tecnológico **JavaScript, React, Redux, NodeJs, Express**
 
-- 📫 Contactame **israel.og@outlook.com**
+- 📫 Contáctame **israel.og@outlook.com**
 
 - 📄 ¿Quién soy? 
 
