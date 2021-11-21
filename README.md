@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Israel Ortiz</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 Actualmente aprendo **React Native**
 
-- 💬 TStack tecnologico **JavaScript, React, Redux, NodeJs, Express**
+- 💬 Stack tecnológico **JavaScript, React, Redux, NodeJs, Express**
 
 - 📫 Contactame **israel.og@outlook.com**
 
